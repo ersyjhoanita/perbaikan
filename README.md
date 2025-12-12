@@ -1,1 +1,3 @@
 # E-Canteen UAS
+Proyek E-Canteen ini merupakan aplikasi berbasis web yang dikembangkan untuk memenuhi tugas akhir (UAS) pada mata kuliah Pemrograman Web Client. Pada tahap ini, fokus pengembangan berada pada tampilan antarmuka (front-end), sehingga seluruh halaman dirancang untuk menggambarkan alur penggunaan aplikasi secara visual tanpa implementasi fungsi backend.
+Tujuan utama dari proyek ini adalah untuk menampilkan desain UI yang responsif, mudah digunakan, serta mendukung pengalaman pengguna dalam memesan makanan di lingkungan kampus secara digital. Melalui proyek ini, saya mempraktikkan kemampuan dalam HTML serta CSS untuk membangun struktur halaman, gaya visual, serta interaksi dasar.
